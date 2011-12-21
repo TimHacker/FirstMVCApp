@@ -22,7 +22,7 @@ namespace FirstMVCApp.Tests.Controllers
 			ViewResult result = controller.Index() as ViewResult;
 
 			// Assert
-			Assert.That("Welcome to ASP.NET MVC!", Is.EqualTo(result.ViewBag.Message));
+			Assert.That("Kate Hacker", Is.EqualTo(result.ViewBag.Message));
 		}
 
 		[Test]
