@@ -1,0 +1,7 @@
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp\bin\FirstMVCApp.dll
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp\bin\FirstMVCApp.pdb
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp\bin\EntityFramework.dll
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp\bin\EntityFramework.xml
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp\obj\Debug\ResolveAssemblyReference.cache
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp\obj\Debug\FirstMVCApp.dll
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp\obj\Debug\FirstMVCApp.pdb

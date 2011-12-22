@@ -1,0 +1,12 @@
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\bin\Debug\FirstMVCApp.Tests.dll.config
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\bin\Debug\FirstMVCApp.Tests.dll
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\bin\Debug\FirstMVCApp.Tests.pdb
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\bin\Debug\FirstMVCApp.dll
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\bin\Debug\nunit.framework.dll
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\bin\Debug\nunit.mocks.dll
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\bin\Debug\pnunit.framework.dll
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\bin\Debug\FirstMVCApp.pdb
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\bin\Debug\nunit.framework.xml
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\obj\Debug\FirstMVCApp.Tests.dll
+C:\MyTCUK\Solutions\Tests\FirstMVCApp\FirstMVCApp.Tests\obj\Debug\FirstMVCApp.Tests.pdb
